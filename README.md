@@ -5,4 +5,4 @@
 ## for colors left right arrows 
 
 ## thanks for checking out
-https://scahren.gq/.
+https://a-singh15.github.io/Music-Visualizer-For-All/
