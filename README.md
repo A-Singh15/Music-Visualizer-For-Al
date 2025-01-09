@@ -40,17 +40,6 @@ Music-Visualizer-For-All/
    cd Music-Visualizer-For-All
    ```
 
-2. Install dependencies:
-   ```
-   [Insert installation command, e.g., pip install -r requirements.txt]
-   ```
-
-3. Run the application:
-   ```
-   [[Insert command to start the application, e.g., python main.py]](https://a-singh15.github.io/Music-Visualizer-For-All/
-
-   ```
-
 ## 🎨 Usage
 
 1. Launch the application.
