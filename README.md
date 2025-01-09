@@ -47,7 +47,8 @@ Music-Visualizer-For-All/
 
 3. Run the application:
    ```
-   [Insert command to start the application, e.g., python main.py]
+   [[Insert command to start the application, e.g., python main.py]](https://a-singh15.github.io/Music-Visualizer-For-All/
+
    ```
 
 ## 🎨 Usage
